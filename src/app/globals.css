@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme inline {
+    --font-main: var(--font-bonny);
+    --font-sec: var(--font-pilcrow);
+}
