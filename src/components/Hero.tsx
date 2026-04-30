@@ -52,9 +52,9 @@ const Hero = () => {
 
         const scrollTimeline = gsap.timeline({
             scrollTrigger: {
-                trigger: '',
+                trigger: '.hero-container',
                 start: 'top top',
-                end: 'bottom bottom',
+                end: 'bottom top',
                 scrub: 1.5,
             }
         })
@@ -71,7 +71,7 @@ const Hero = () => {
     })
 
     return (
-        <section className='smooth-scroll'>
+        <section className='hero-container smooth-scroll'>
             <div className="hero opacity-0 relative flex items-center justify-between min-h-[75vh] p-0 ">
 
                 {/* LEFT CAN */}

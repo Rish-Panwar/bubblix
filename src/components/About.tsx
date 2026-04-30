@@ -22,7 +22,7 @@ const About = () => {
             scrollTrigger: {
                 trigger: '.about-section',
                 start: 'top 60%',
-                end: 'bottom 10%',
+                end: 'bottom 110%',
                 scrub: 1,
             }
         })
@@ -45,7 +45,7 @@ const About = () => {
     })
 
     return (
-        <section className='about-section mt-20 px-10'>
+        <section className='about-section mt-20 px-10 mb-0'>
             <div className="relative z-80 grid md:grid-cols-2 h-screen items-center gap-4">
                 <div className="grid auto-rows-min text-left">
                     <h2 className="text-4xl md:text-5xl lg:text-7xl font-bold text-sky-900 uppercase tracking-wide">

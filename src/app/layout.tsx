@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import localFont from "next/font/local";
-import Scene from "@/components/Scene";
 
 
 
@@ -31,7 +30,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="bg-[#FFD41D] overflow-x-hidden">
+    <html lang="en" className="bg-[#FFD41D] overflow-x-hidden scroll-smooth">
       <body className={`${bonny.variable} ${bonny.className} ${pilcrow.variable} ${pilcrow.className} bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.4)_0%,transparent_70%)]`}>   
         {/* Main Content */}
         <main>

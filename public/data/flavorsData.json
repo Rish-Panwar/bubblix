@@ -2,38 +2,33 @@
   "flavors": [
     {
       "name": "Strawberry Burst",
-      "color": "#FF4D6D",
+      "color": "#D7263D",
       "img": "/assets/strawberry.svg",
-      "price": "$1.99",
-      "gradient": ["#FF4D6D", "#FF8FA3"]
+      "price": "$19.99"
     },
     {
       "name": "Orange Zest",
-      "color": "#FF7A00",      
+      "color": "#FF7A00",
       "img": "/assets/orange.svg",
-      "price": "$1.99", 
-      "gradient": ["#FF7A00", "#FFB347"]
+      "price": "$19.99"
     },
     {
       "name": "Lemon Zest",
-      "color": "#FFD60A",
+      "color": "#FFC85C",
       "img": "/assets/lemon.svg",
-      "price": "$1.99",   
-      "gradient": ["#FFD60A", "#FFF3B0"]
-    },    
+      "price": "$19.99"
+    },
     {
       "name": "Blueberry Fizz",
       "color": "#3A86FF",
       "img": "/assets/blueberry.svg",
-      "price": "$1.99",
-      "gradient": ["#3A86FF", "#7FB3FF"]
+      "price": "$19.99"
     },
     {
       "name": "Grape Splash",
-      "color": "#7B2CBF",
+      "color": "#8338EC",
       "img": "/assets/grape.svg",
-      "price": "$1.99",
-      "gradient": ["#7B2CBF", "#C77DFF"]
-    }    
+      "price": "$19.99"
+    }
   ]
 }

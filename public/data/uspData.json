@@ -1,0 +1,31 @@
+{
+  "usp": [
+    {
+      "id": "gut-health",
+      "title": "Gut-Friendly Goodness",
+      "tagline": "Support your microbiome, sip by sip",
+      "description": "Infused with prebiotics and 1 billion live probiotics, Bubblix is designed to support a balanced gut. Each sparkling sip helps nourish your microbiome while keeping things light, refreshing, and easy to enjoy daily.",
+      "highlight": "1B Live Probiotics",
+      "image": "/assets/gut-friendly-1.png",
+      "alt": "Minimal 3D glass bottle with glowing probiotic bubbles inside"
+    },
+    {
+      "id": "low-calorie",
+      "title": "Light Calories, Big Flavor",
+      "tagline": "Bold taste, minus the guilt",
+      "description": "At just 20 calories per can, Bubblix delivers a full burst of fruity flavor without weighing you down. It’s the perfect balance of indulgence and mindful refreshment.",
+      "highlight": "All natural flavors.",
+      "image": "/assets/low-calorie-1.png",
+      "alt": "Dynamic fruit splash with light sparkling soda effect"
+    },
+    {
+      "id": "natural",
+      "title": "Naturally Refreshing",
+      "tagline": "Clean ingredients, crisp experience",
+      "description": "Made with naturally sourced ingredients and no artificial sweeteners or flavors, Bubblix keeps it clean. Just pure, crisp refreshment that feels as good as it tastes.",
+      "highlight": "No Artificial Additives",
+      "image": "/assets/natural-water.png",
+      "alt": "Minimal eco-inspired soda visual with soft green tones"
+    }
+  ]
+}
